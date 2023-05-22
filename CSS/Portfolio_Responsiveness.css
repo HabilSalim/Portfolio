@@ -1,0 +1,10 @@
+@media only screen and (max-width:413px){
+  .top_element{
+  	font-size: 6px;
+  	margin-right: 0.1%;
+  }
+  #logo{
+  	margin-left: 0.5%;
+  }
+
+}
